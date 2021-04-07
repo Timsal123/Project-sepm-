@@ -1,5 +1,4 @@
 # Project-sepm- 
-#Library Management Module to add and Delete a Book 
 ## Contents
 * [Information](#project-sepm-)
 * [Modules](#module)
@@ -10,6 +9,9 @@ A module to add and delete Book which can be implemented in Library managaement 
 * php
 * HTML/CSS
 * MySQL Database
-## Modules:;
-* Add Book
-* Delete Book
+## Modules:
+* [Home page](index.php)
+* [Add Book ](add.php)
+* [Delete Book](delete.php)
+## Contact:
+Created by [Timsal Zehra](https://www.linkedin.com/in/timsal-zehra-43863b1a6) - feel free to contact me!
