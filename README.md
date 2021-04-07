@@ -13,6 +13,6 @@ A module to add and delete Book which can be implemented in Library managaement 
 ## Modules:
 * [Home page](index.php)
 * [Add Book ](add.php)
-* [Delete Book](delete.php)
+* [Delete Book](details.php)
 ## Contact:
 Created by [Timsal Zehra](https://www.linkedin.com/in/timsal-zehra-43863b1a6) - feel free to contact me!
