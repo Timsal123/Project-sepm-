@@ -2,6 +2,7 @@
 ## Contents
 * [Information](#project-sepm-)
 * [Modules](#module)
+* [Contact](#contact)
 
 ## Information:
 A module to add and delete Book which can be implemented in Library managaement projects.
